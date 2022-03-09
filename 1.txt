@@ -1,0 +1,4 @@
+hi this is charan
+To add files from untracked/local work space to staging area use git add <filename>
+ SO That git can track the files
+TO remove from staging area --> git rm --cached <filename>
