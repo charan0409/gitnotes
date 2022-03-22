@@ -3,3 +3,4 @@ To add files from untracked/local work space to staging area use git add <filena
  SO That git can track the files
 TO remove from staging area --> git rm --cached <filename>
 To commit use git commit -m "message"
+git diff
